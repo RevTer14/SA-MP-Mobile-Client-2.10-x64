@@ -14,7 +14,7 @@ A modified and optimized source code for the **SA:MP Mobile Client v2.10 (x64)**
 
 | Main Menu / หน้าแรก | Gameplay / บรรยากาศในเกม | Chat Input / ระบบพิมพ์แชท |
 | :---: | :---: | :---: |
-| <img src="https://img2.pic.in.th/1ac5cb38b86a195cb.jpg" width="250" alt="Main Menu"> | <img src="https://img2.pic.in.th/image0b93a4ce8b5cdb5e.png" width="250" alt="Gameplay"> | <img src="https://www.blast.hk/attachments/270754/)" width="250" alt="Chat UI"> | 
+| <img src="https://img2.pic.in.th/1ac5cb38b86a195cb.jpg" width="250" alt="Main Menu"> | <img src="https://img2.pic.in.th/image0b93a4ce8b5cdb5e.png" width="250" alt="Gameplay"> | <img src="https://www.blast.hk/attachments/270754/" width="250" alt="Chat UI"> | 
 
 > 💡 *Tip: Create a `screenshots` folder in your repository root and upload your images as `menu.png`, `gameplay.png`, and `chat.png`.*
 

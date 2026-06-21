@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:layout_gravity="bottom"
     android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar">
-
+ 
     <SurfaceView
         android:id="@+id/main_sv"
         android:layout_width="match_parent"
